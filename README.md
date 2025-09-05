@@ -5,7 +5,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tacctowr alt=tacctowr /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tacctowr&show_icons=true&include_all_commits=true)](https://github.com/tacctowr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacctowr&layout=compact)](https://github.com/tacctowr/github-readme-stats)
+username=tacctowr&layout=compact)](https://github.com/tacctowr/github-readme-stats)
 
 Fun facts about me!
 I'm an amateur writer! Though I'm not currently published, I have many works in progress that I dream of one day hitting the shelves of Barnes and Noble :)
